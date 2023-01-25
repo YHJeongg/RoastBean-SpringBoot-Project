@@ -83,7 +83,7 @@
 ---
 ## 👨‍👨‍👦‍👦 Members
 
-|            [김상원](https://github.com/sangwonKim7)             |            [김영혁](https://github.com/BhanKim)             |             [정윤현](https://github.com/YHJeongg)             |             [송명철](https://github.com/SMASMC)             |
+|            [김oo](https://github.com/sangwonKim7)             |            [김oo](https://github.com/BhanKim)             |             [정윤현](https://github.com/YHJeongg)             |             [송oo](https://github.com/SMASMC)             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | 
 | <img src="https://avatars.githubusercontent.com/u/113151821?v=4" width=200px alt=""/> | <img src="https://avatars.githubusercontent.com/u/113099982?v=4" width=200px alt=""/> | <img src="https://avatars.githubusercontent.com/u/97114061?v=4" width=200px alt=""/> | <img src="https://avatars.githubusercontent.com/u/95916983?v=4" width=200px alt=""> |
 |                          로그인 및 회원가입, 사용자 정보,<br/>고객 서비스(Q&A, 공지사항)                          |                         게시판, 상품등록, <br/>지도                          |                           상품 및 리뷰, <br/>이메일 인증                            |                           게시판, 상품 수정 및 삭제, 설문                          |
